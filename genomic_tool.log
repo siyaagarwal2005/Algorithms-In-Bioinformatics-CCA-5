@@ -1,0 +1,12 @@
+2025-10-25 15:51:36,859 - INFO - cli_tool - CLI tool started. Input: test_sequences.fasta, Output: summary.txt
+2025-10-25 15:51:36,859 - INFO - cli_tool - Applying filter: Minimum sequence length = 500 bp
+2025-10-25 15:51:36,859 - ERROR - cli_tool - FATAL I/O ERROR: Program terminated. Details: [Errno 2] No such file or directory: 'test_sequences.fasta'
+2025-10-25 15:52:08,218 - INFO - cli_tool - CLI tool started. Input: test_fasta_handlers, Output: summary.txt
+2025-10-25 15:52:08,218 - INFO - cli_tool - Applying filter: Minimum sequence length = 500 bp
+2025-10-25 15:52:08,219 - ERROR - cli_tool - FATAL I/O ERROR: Program terminated. Details: [Errno 2] No such file or directory: 'test_fasta_handlers'
+2025-10-25 16:11:38,040 - INFO - cli_tool - CLI tool started. Input: test_sequences.fasta, Output: analysis_summary.txt
+2025-10-25 16:11:38,041 - INFO - cli_tool - Applying filter: Minimum sequence length = 100 bp
+2025-10-25 16:11:38,041 - ERROR - cli_tool - FATAL I/O ERROR: Program terminated. Details: [Errno 2] No such file or directory: 'test_sequences.fasta'
+2025-10-25 16:11:59,415 - INFO - cli_tool - CLI tool started. Input: test_sequences.fasta, Output: analysis_summary.txt
+2025-10-25 16:11:59,416 - INFO - cli_tool - Applying filter: Minimum sequence length = 100 bp
+2025-10-25 16:11:59,416 - ERROR - cli_tool - FATAL I/O ERROR: Program terminated. Details: [Errno 2] No such file or directory: 'test_sequences.fasta'
