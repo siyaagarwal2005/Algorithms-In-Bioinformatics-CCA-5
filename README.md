@@ -1,6 +1,6 @@
-# 🧬 Assignment 3: Genomic Databases and Advanced Applications (CCA5)
+# Assignment 3: Genomic Databases and Advanced Applications (CCA5)
 
-## 📘 Project Overview
+## Project Overview
 
 This repository contains the complete implementation for **Assignment 3: Genomic Databases and Advanced Applications (CCA5)**.  
 The project progressively builds a suite of bioinformatics tools in Python — covering everything from efficient FASTA file handling and algorithmic problem-solving (sequence alignment, pattern matching, etc.) to advanced performance optimization and professional-grade command-line interface (CLI) development.
@@ -9,13 +9,13 @@ The final deliverable is a set of **well-documented, tested, and high-performanc
 
 ---
 
-## 🚀 Setup and Installation
+## Setup and Installation
 
-### 🧩 Prerequisites
+### Prerequisites
 - Python **3.8+**
 - `pip` package manager
 
-### 📦 Dependencies
+### Dependencies
 
 This project uses standard scientific computing libraries along with the **`tqdm`** library for progress monitoring.
 
