@@ -17,15 +17,12 @@ The final deliverable is a set of **well-documented, tested, and high-performanc
 
 ### 📦 Dependencies
 
-This project uses standard scientific computing libraries along with the **`tqdm`** library for progress monitoring (Question 5).
+This project uses standard scientific computing libraries along with the **`tqdm`** library for progress monitoring.
 
-Install dependencies inside your virtual environment using:
-
-```bash
 Repository Structure
-
 The repository is modular — each Python file corresponds to a specific assignment question for maximum clarity and reusability.
-pip install numpy tqdm
+
+
 | File / Folder                   | Assignment Question        | Description                                                                                            |
 | :------------------------------ | :------------------------- | :----------------------------------------------------------------------------------------------------- |
 | `cli_tool.py`                   | **Q6 (Integration)**       | Main executable file implementing the CLI, logging, and error handling.                                |
@@ -38,6 +35,8 @@ pip install numpy tqdm
 | `genomic_tool.log`              | **Q6 (Logging)**           | Automatically generated runtime log file.                                                              |
 
 Key Algorithms Implemented
+
+
 | Question | Requirement         | Implementation                                      | Time Complexity                       |
 | :------- | :------------------ | :-------------------------------------------------- | :------------------------------------ |
 | **Q3**   | Sequence Alignment  | **Needleman–Wunsch Global Alignment**               | O(M × N)                              |
